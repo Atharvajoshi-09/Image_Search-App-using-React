@@ -1,0 +1,35 @@
+form {
+  margin-top: 20px;
+}
+
+.btns {
+  margin-top: 20px;
+}
+
+.btns Button {
+  width: 100px;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+}
+
+.search Button {
+  height: 40px;
+  margin-top: 20px;
+  width: 100px;
+  margin-left: 20px;
+}
+
+form {
+  width: 350px;
+}
+
+.imgresults {
+  margin-top: 20px;
+  padding: 5px;
+  display: flex; /* Add flex display to align images horizontally */
+  flex-wrap: wrap; /* Allow images to wrap to the next line */
+}
+
